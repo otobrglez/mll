@@ -1,6 +1,6 @@
 # mll
 
-Conll (X) to sentance with modern C++ and some Boost.
+Experimental C++ app to convert CoNLL file to list of sentences that can be further used in machine learning / NLP tools and frameworks.
 
 ````bash
 make app
